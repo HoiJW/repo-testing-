@@ -7,9 +7,9 @@ html { box-sizing: border-box;}
 .sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; border: 0; padding: 0; white-space: nowrap; clip-path: inset(100%); clip: rect(0 0 0 0); overflow: hidden;}
 
 header{
-    background-color: rgb(255, 216, 144);
+    background-color: rgb(116, 125, 255);
 }
 
 footer{
-    background: rgb(183, 255, 183);
+    background: rgb(124, 180, 253);
 }
